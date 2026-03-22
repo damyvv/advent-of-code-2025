@@ -1,0 +1,5 @@
+.env
+/inputs/*.txt
+.DS_Store
+.bundle
+vendor/
